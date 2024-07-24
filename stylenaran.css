@@ -1,0 +1,35 @@
+.navigation{
+    width: 100%; 
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img{
+    background-image: url(Naran-Pakistan.jpg);
+    background-size: cover;
+    height: 500px;
+    /* box-shadow: 5px 5px 5px solid  black */
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    justify-content: space-around;
+    align-items:center ;
+}
+
+.logo{
+align-items: left;
+}
+
+.heading{
+    color: white;
+    margin-left: 400px;
+    margin-top: 80px
+}
+.heading:hover{
+    color: #a91d3a;
+}
